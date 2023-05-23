@@ -1,0 +1,11 @@
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_lind_2\task2\task2\bin\Debug\task2.exe.config
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_lind_2\task2\task2\bin\Debug\task2.exe
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_lind_2\task2\task2\bin\Debug\task2.pdb
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_lind_2\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_lind_2\task2\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_lind_2\task2\task2\obj\Debug\task2.Form1.resources
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_lind_2\task2\task2\obj\Debug\task2.Properties.Resources.resources
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_lind_2\task2\task2\obj\Debug\task2.csproj.GenerateResource.cache
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_lind_2\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_lind_2\task2\task2\obj\Debug\task2.exe
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_lind_2\task2\task2\obj\Debug\task2.pdb

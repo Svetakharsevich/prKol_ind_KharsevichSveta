@@ -1,0 +1,8 @@
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_ind\prKol_ind\bin\Debug\prKol_ind.exe.config
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_ind\prKol_ind\bin\Debug\prKol_ind.exe
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_ind\prKol_ind\bin\Debug\prKol_ind.pdb
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_ind\prKol_ind\obj\Debug\prKol_ind.csproj.AssemblyReference.cache
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_ind\prKol_ind\obj\Debug\prKol_ind.csproj.SuggestedBindingRedirects.cache
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_ind\prKol_ind\obj\Debug\prKol_ind.csproj.CoreCompileInputs.cache
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_ind\prKol_ind\obj\Debug\prKol_ind.exe
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\prKol_ind\prKol_ind\obj\Debug\prKol_ind.pdb
